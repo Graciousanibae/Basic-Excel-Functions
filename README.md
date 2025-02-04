@@ -1,4 +1,4 @@
-# Basic-Excel-Functions 
+# Basic-Excel-Functions on Bike Buyers
 # Introduction
 As part of assessment in the Data Analytics class organized by PSP Analytics, one of the analytics projects I’ll be working on is the Basic Excel Functions on Bike Buyers Dataset.The Basic Excel Functions on Bike buyers dataset contains the Customer ID,	Customer Name,	Marital Status,	Gender,	Income,	Children,	Education,	Occupation and other data of the Basic Excel Function. The goal of this work is to analyze the Basic Excel Functions, their uses and to uncover insights to be used for the business growth.
 
