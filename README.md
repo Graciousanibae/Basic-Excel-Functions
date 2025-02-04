@@ -58,7 +58,8 @@ columns.
   the data.
   a. Use the `IF` function to create a new column labeled "High Income", where customers with an income above $50,000 are marked as “Yes” and those below are marked as “No.”
 
-  ![image](https://github.com/user-attachments/assets/25d40c16-998b-461c-b606-9ed67a420b99)
+  ![image](https://github.com/user-attachments/assets/769efbf3-4162-4cda-977b-31a6776d5f27)
+
 
   b. Use the `SUMIF` function to calculate the total Income for customers who are married (i.e M).
 
